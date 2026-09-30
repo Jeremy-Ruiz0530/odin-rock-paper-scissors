@@ -1,2 +1,4 @@
-# odin-rock-paper-scissors
-For ITE 18 - Odin Project (Rock Paper Scissors)
+#ITE 18 - Odin Project - Rock, Paper, Scissors
+
+Jeremy Raz Ruiz - FNHX1
+
